@@ -53,3 +53,8 @@ Project is created with:
 </details>
 
 <details>
+<summary>Saved Books</summary>
+
+![saved](./assets/savedbooks.png)
+
+</details>
