@@ -15,3 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Contact me](#contact-me)
+
+# Deployed Application
+
+Click [here](https://mighty-brook-51272.herokuapp.com/) to view the heroku deployed app.
