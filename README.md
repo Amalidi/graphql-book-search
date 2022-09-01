@@ -19,3 +19,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Deployed Application
 
 Click [here](https://mighty-brook-51272.herokuapp.com/) to view the heroku deployed app.
+
+# User Story
+
+```md
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase
+```
