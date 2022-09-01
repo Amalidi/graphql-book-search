@@ -74,3 +74,7 @@ Project is created with:
 </details>
 
 </br>
+
+# Contact me
+
+If you have any questions about the repository, contact me directly through [email](mailto:A.idi12@outlook.com). You can find more of my work [here](https://github.com/Amalidi).
