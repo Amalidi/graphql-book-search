@@ -67,3 +67,10 @@ Project is created with:
 </details>
 
 <details>
+<summary>Sign Up</summary>
+
+![saved](./assets/signup.png)
+
+</details>
+
+</br>
