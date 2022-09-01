@@ -27,3 +27,18 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 ```
+
+# Technologies
+
+Project is created with:
+
+- MongoDB
+- jsonwebtoken
+- Express.js
+- React.js
+- Node.js
+- bcrypt
+- JavaScript
+- GraphQL API
+- Apollo-Server-express
+- Apollo/client
