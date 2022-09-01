@@ -42,3 +42,14 @@ Project is created with:
 - GraphQL API
 - Apollo-Server-express
 - Apollo/client
+
+# Screenshots
+
+<details>
+<summary>Book Search</summary>
+
+![search](./assets/booksearch.png)
+
+</details>
+
+<details>
